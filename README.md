@@ -1,0 +1,3 @@
+# js
+
+A JavaScript project.
